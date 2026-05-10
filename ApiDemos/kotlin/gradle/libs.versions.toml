@@ -1,7 +1,7 @@
 [versions]
 activityKtx = "1.10.0"
 androidxJunit = "1.2.1"
-appcompat = "1.7.0"
+appcompat = "1.7.1"
 cardview = "1.0.0"
 easypermissions = "3.0.0"
 espresso = "3.6.1"
