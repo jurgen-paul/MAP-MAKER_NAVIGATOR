@@ -56,10 +56,10 @@ android {
 // [START maps_android_maps_rx_install]
 dependencies {
     // RxJava bindings for the Maps SDK
-    implementation("com.google.maps.android:maps-rx:1.0.0")
+    implementation("com.google.maps.android:maps-rx:1.0.1")
 
     // RxJava bindings for the Places SDK
-    implementation("com.google.maps.android:places-rx:1.0.0")
+    implementation("com.google.maps.android:places-rx:1.0.1")
 
     // It is recommended to also include the latest Maps SDK, Places SDK and RxJava so you
     // have the latest features and bug fixes.
