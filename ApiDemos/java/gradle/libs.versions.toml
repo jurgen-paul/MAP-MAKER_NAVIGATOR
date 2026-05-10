@@ -1,7 +1,7 @@
 [versions]
 activity = "1.10.0"
 androidxJunit = "1.2.1"
-appcompat = "1.7.0"
+appcompat = "1.7.1"
 espresso = "3.6.1"
 junit = "4.13.2"
 material = "1.12.0"
